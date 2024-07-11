@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeducare=self.webpackChunkeducare||[]).push([[9380],{9380:(e,c,s)=>{e.exports=s.p+"static/media/IMG_44.1.053f7637fbfdbbc5d537.jpg"}}]);
