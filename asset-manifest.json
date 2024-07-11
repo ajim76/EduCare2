@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EduCare2/static/css/main.451ffddc.css",
+    "main.css": "/EduCare2/static/css/main.05a5f924.css",
     "main.js": "/EduCare2/static/js/main.142fc44a.js",
     "static/js/4701.786e12bb.chunk.js": "/EduCare2/static/js/4701.786e12bb.chunk.js",
     "static/js/6210.8294234e.chunk.js": "/EduCare2/static/js/6210.8294234e.chunk.js",
@@ -239,12 +239,12 @@
     "static/media/IMG_27.2.jpg": "/EduCare2/static/media/IMG_27.2.5c47c3566eea332f53bf.jpg",
     "static/media/IMG_10.1.jpg": "/EduCare2/static/media/IMG_10.1.9e3d3b01aca055f8651c.jpg",
     "index.html": "/EduCare2/index.html",
-    "main.451ffddc.css.map": "/EduCare2/static/css/main.451ffddc.css.map",
+    "main.05a5f924.css.map": "/EduCare2/static/css/main.05a5f924.css.map",
     "main.142fc44a.js.map": "/EduCare2/static/js/main.142fc44a.js.map",
     "6453.33265de7.chunk.js.map": "/EduCare2/static/js/6453.33265de7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.451ffddc.css",
+    "static/css/main.05a5f924.css",
     "static/js/main.142fc44a.js"
   ]
 }
